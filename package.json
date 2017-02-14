@@ -1,0 +1,24 @@
+{
+  "name": "cloves",
+  "version": "0.0.1",
+  "description": "Elm Webpack Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siliconmagi/elm-webpack2.git"
+  },
+  "keywords": [
+    "elm",
+    "webpack",
+    "2"
+  ],
+  "author": "siliconmagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siliconmagi/elm-webpack2/issues"
+  },
+  "homepage": "https://github.com/siliconmagi/elm-webpack2#readme"
+}
